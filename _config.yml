@@ -1,1 +1,5 @@
 theme: minima
+plugins:
+  - jekyll-feed         # RSS feed
+  - jekyll-seo-tag      # SEO tags
+  - jekyll-sitemap      # Sitemap generation
